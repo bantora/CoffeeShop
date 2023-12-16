@@ -1,10 +1,14 @@
 import "./App.css";
-import { Navbar } from "./components";
+import { Navbar, Home, About, Brewers, Contact } from "./components";
 
 const App = () => {
   return (
     <>
       <Navbar />
+      <Home />
+      <Brewers />
+      <About />
+      <Contact />
     </>
   );
 };
