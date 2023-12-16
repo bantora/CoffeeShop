@@ -15,7 +15,7 @@ const Navbar = () => {
         Brewers
       </a>
       <a href='#about' onClick={() => scrollToElement("about")}>
-        About Us
+        About
       </a>
       <a href='#contact' onClick={() => scrollToElement("contact")}>
         Contact Us
