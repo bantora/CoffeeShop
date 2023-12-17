@@ -7,7 +7,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className='navbar'>
+    <div className={`navbar`}>
       <a href='#home' onClick={() => scrollToElement("home")}>
         Home
       </a>
