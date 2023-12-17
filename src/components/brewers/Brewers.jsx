@@ -8,7 +8,7 @@ import pourover from "../../assets/pourover.png";
 import aeropress from "../../assets/aeropress.png";
 import chemex from "../../assets/chemex.png";
 
-import ImageGallery from "react-image-gallery";
+import ImageGallery from "react-image-gallery"; 
 
 const Brewers = () => {
   const images = [
