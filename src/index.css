@@ -1,4 +1,8 @@
 :root {
   font-family: 'Roboto Mono', monospace;
-  background-color:  #BFAA88;
+  background-color:  #BFAA88; 
+}
+
+body {
+  margin: 0;
 }
