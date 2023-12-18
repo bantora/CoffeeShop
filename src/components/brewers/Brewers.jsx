@@ -45,20 +45,17 @@ const Brewers = () => {
   ];
 
   return (
-    <>
-      <div id='brewers' className='brewers section'>
-        <ImageGallery
-          items={images}
-          showPlayButton={false}
-          showBullets={false}
-          slideDuration={1500}
-          autoPlay
-          slideInterval={5000}
-          showFullscreenButton={false}
-          showThumbnails={false}
-        />
-      </div>
-    </>
+    <div id='brewers' className='brewers section'>
+      <ImageGallery
+        items={images}
+        showPlayButton={false}
+        showBullets={false}
+        // showNav={false}
+        slideDuration={1500}
+        autoPlay
+        // showThumbnails={false}
+      />
+    </div>
   );
 };
 
