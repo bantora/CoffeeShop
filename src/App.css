@@ -9,9 +9,10 @@
 }
 
 .section {
-  height: 100vh; /* Make each section occupy the full viewport height */
+  height: 100vh; 
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 24px;
+  z-index: 2;
 }

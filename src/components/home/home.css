@@ -1,0 +1,14 @@
+.home{
+	background-image: url("../../assets/background.png");
+	background-position: center; 
+	background-repeat: no-repeat; 
+	background-size: cover;
+	color: #F2E2C9;
+}
+
+.scroll-text {
+	margin: 10vw;
+	text-align: justify;
+	font-weight: bolder;
+	
+}
