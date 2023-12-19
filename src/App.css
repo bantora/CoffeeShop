@@ -9,10 +9,18 @@
 }
 
 .section {
+  scroll-snap-align: start; 
   height: 100vh; 
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 24px;
   z-index: 2;
+}
+
+.scroll-container {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  height: 100vh;
+  scroll-behavior: smooth;
 }

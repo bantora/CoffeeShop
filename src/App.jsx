@@ -4,11 +4,13 @@ import { Navbar, Home, About, Brewers, Contact } from "./components";
 const App = () => {
   return (
     <>
-      <Navbar />
-      <Home />
-      <Brewers />
-      <About />
-      <Contact />
+      <div className='scroll-container'>
+        <Navbar />
+        <Home />
+        <Brewers />
+        <About />
+        <Contact />
+      </div>
     </>
   );
 };
