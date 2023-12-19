@@ -51,9 +51,11 @@ const Brewers = () => {
         showPlayButton={false}
         showBullets={false}
         // showNav={false}
+        showFullscreenButton={false}
         slideDuration={1500}
+        slideInterval={5000}
         autoPlay
-        // showThumbnails={false}
+        showThumbnails={false}
       />
     </div>
   );
