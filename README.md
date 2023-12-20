@@ -9,4 +9,16 @@ This project is developed using a range of technologies and dependencies, ensuri
 ### Dependencies:
 - [React](https://reactjs.org/): `^18.2.0`
 - [React-DOM](https://reactjs.org/docs/react-dom.html): `^18.2.0`
-- [React
+- [React Image Gallery](https://www.npmjs.com/package/react-image-gallery): `^1.3.0`
+
+## Contact Us
+
+For more information or inquiries about the Coffee Shop project, feel free to reach out to our team:
+
+- **Ryan Paolo G. Joson**
+  - Email: [ryanpaolo.g.joson@gmail.com](mailto:ryanpaolo.g.joson@gmail.com)
+  - GitHub: [bantora](https://github.com/bantora)
+
+- **Rico T. Cañete**
+  - Email: [rico.canete05@gmail.com](mailto:rico.canete05@gmail.com)
+  - GitHub: [RTCanete](https://github.com/RTCanete)
