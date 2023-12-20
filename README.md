@@ -1,8 +1,12 @@
-# React + Vite
+# Coffee Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A boilerplate website created to be used for a coffee shop, the Coffee Shop project embodies the warm and inviting ambiance of a café in a digital format. Designed with user experience in mind, this website offers an intuitive interface that beautifully showcases a coffee shop's menu, ambiance, and services. It’s built using modern web technologies to ensure high performance and responsiveness, making it perfect for coffee shop owners looking to establish or enhance their online presence. The project is easily customizable, allowing for personalization to fit the unique brand and style of any coffee shop.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is developed using a range of technologies and dependencies, ensuring a robust and scalable application:
+
+### Dependencies:
+- [React](https://reactjs.org/): `^18.2.0`
+- [React-DOM](https://reactjs.org/docs/react-dom.html): `^18.2.0`
+- [React
